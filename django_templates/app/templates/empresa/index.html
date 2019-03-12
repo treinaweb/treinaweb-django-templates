@@ -98,11 +98,11 @@
         <div class="card h-100">
           <img class="card-img-top" src="http://placehold.it/300x200" alt="">
           <div class="card-body">
-            {% if curso.titulo == "Django Fundamentos" %}
+            {% ifequal curso.titulo "Django Fundamentos" %}
               <h2 class="card-title">{{curso.titulo}}</h2>
             {% else %}
               <h4 class="card-title">{{curso_id}} - {{curso.titulo}}</h4>
-            {% endif %}
+            {% endifequal %}
             <p class="card-text">{{curso.descricao}}</p>
           </div>
           <div class="card-footer">
