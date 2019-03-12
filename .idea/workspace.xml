@@ -4,6 +4,7 @@
     <list default="true" id="612292ba-23e2-4854-b30a-67956a0e0302" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_templates/app/templates/empresa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_templates/app/templates/empresa/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_templates/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_templates/app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_templates/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_templates/app/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_templates/django_templates/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+            <state relative-caret-position="1706">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
             </state>
           </provider>
         </entry>
@@ -26,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_templates/app/templates/empresa/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="85" column="52" selection-start-line="85" selection-start-column="52" selection-end-line="85" selection-end-column="52" />
+            <state relative-caret-position="397">
+              <caret line="44" column="58" lean-forward="true" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -35,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_templates/app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -47,8 +48,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_templates/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_templates/django_templates/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="323">
               <caret line="20" column="29" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="e#640#672#0" expanded="true" />
@@ -113,8 +117,8 @@
         <option value="$PROJECT_DIR$/django_templates/django_templates/urls.py" />
         <option value="$PROJECT_DIR$/django_templates/app/templates/index.html" />
         <option value="$PROJECT_DIR$/django_templates/app/urls.py" />
-        <option value="$PROJECT_DIR$/django_templates/app/views.py" />
         <option value="$PROJECT_DIR$/django_templates/app/templates/empresa/index.html" />
+        <option value="$PROJECT_DIR$/django_templates/app/views.py" />
       </list>
     </option>
   </component>
@@ -242,7 +246,7 @@
     <frame x="0" y="23" width="1363" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,8 +276,18 @@
     <entry file="file://$USER_HOME$/Desktop/startbootstrap-business-frontpage-gh-pages/index.html" />
     <entry file="file://$PROJECT_DIR$/django_templates/django_templates/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        <state relative-caret-position="1706">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_templates/django_templates/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -297,37 +311,30 @@
     <entry file="file://$PROJECT_DIR$/django_templates/app/static/app/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_templates/django_templates/urls.py">
+    <entry file="file://$PROJECT_DIR$/django_templates/app/templates/empresa/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#640#672#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="397">
+          <caret line="44" column="58" lean-forward="true" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/django_templates/app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_templates/app/templates/empresa/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="85" column="52" selection-start-line="85" selection-start-column="52" selection-end-line="85" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_templates/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,3 +1,4 @@
+from django.http import HttpResponse
 from django.shortcuts import render
 
 # Create your views here.
@@ -13,3 +14,9 @@ def index(request):
     }
 
     return render(request, 'empresa/index.html', {'nome_empresa':nome_da_empresa, 'descricao_empresa':descricao_da_empresa, 'contato_empresa': contato_empresa})
+
+def about(request):
+    return HttpResponse("Página sobre")
+
+def contact(request, id):
+    return HttpResponse(id)
