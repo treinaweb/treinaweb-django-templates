@@ -13,7 +13,14 @@ def index(request):
         "email": "contato@treinaweb.com.br"
     }
 
-    return render(request, 'empresa/index.html', {'nome_empresa':nome_da_empresa, 'descricao_empresa':descricao_da_empresa, 'contato_empresa': contato_empresa})
+    cursos_home = {
+        "1": {"titulo": "Django Fundamentos", "descricao": "Aprenda toda a base do Django agora mesmo!!"},
+        "2": {"titulo": "Flask Fundamentos", "descricao": "Aprenda toda a base do Flask agora mesmo!!"},
+        "3": {"titulo": "Python OO", "descricao": "Aprenda a orientação à objetos com Python agora mesmo!!"},
+    }
+
+    return render(request, 'empresa/index.html', {'nome_empresa':nome_da_empresa, 'descricao_empresa':descricao_da_empresa,
+                                                  'contato_empresa': contato_empresa, 'cursos_home':cursos_home})
 
 def about(request):
     return HttpResponse("Página sobre")
