@@ -23,7 +23,6 @@ def index(request):
                                                   'contato_empresa': contato_empresa, 'cursos_home':cursos_home})
 
 def about(request):
-
     return render(request, 'empresa/about.html')
 
 def contact(request):
