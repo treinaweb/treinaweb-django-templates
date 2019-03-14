@@ -23,10 +23,8 @@ def index(request):
                                                   'contato_empresa': contato_empresa, 'cursos_home':cursos_home})
 
 def about(request):
-    nome_da_empresa = "TreinaWeb"
-    descricao_da_empresa = "Há mais de 12 anos formando desenvolvedores de ponta! São mais de 4.000 horas de conteúdo, com formações completas e com foco no mercado de trabalho."
 
-    return render(request, 'empresa/about.html', {'nome_empresa':nome_da_empresa, 'descricao_empresa':descricao_da_empresa})
+    return render(request, 'empresa/about.html')
 
-def contact(request, id):
+def contact(request):
     return render(request, 'empresa/contact.html')
