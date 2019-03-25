@@ -1,9 +1,10 @@
-TreinaWeb: curso "Django - Templates"
-Repositório com o código produzido durante o curso "Django Templates".
+# TreinaWeb: curso "Django - Templates"
 
-Ferramentas utilizadas no curso:
-Python 3.6
-PyCharm Community Edition
+Repositório com o código produzido durante o curso "Django - Templates".
+
+#### Ferramentas utilizadas no curso:
+  - Python 3.6
+  - PyCharm Community Edition
 
 #### Lista de commits
 Aula | Video | Commit | Link 
